@@ -1,3 +1,4 @@
+# PokemonGraphQL
 
 <h2 align="center">
 	First Test with React and GraphQL
