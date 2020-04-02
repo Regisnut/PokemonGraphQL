@@ -7,7 +7,7 @@
 <img
 		width="250"
 		alt="pokemon"
-		src="https://github.com/Regisnut/pokemonreactgraphql/blob/master/preview/pokemon.png">
+		src="https://github.com/Regisnut/PokemonGraphQL/blob/master/src/preview/pokemon.png">
 </h1>
 
 ## Overview
