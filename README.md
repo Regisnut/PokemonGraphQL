@@ -5,7 +5,7 @@
 
 <h1 align="center">
 <img
-		width="250"
+		width="260"
 		alt="pokemon"
 		src="https://github.com/Regisnut/PokemonGraphQL/blob/master/src/preview/pokemon.png">
 </h1>
